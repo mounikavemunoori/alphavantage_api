@@ -9,7 +9,7 @@ pip install pytest
 # install the pytest-html package to generate the test reports 
  pip install pytest-html
 
-# I have used below link to generate our own api-key
+# used below link to generate our own api-key
 https://www.alphavantage.co/support/#api-key
 
 # Then copy the generated ap-key and paste in the test_data/alphavantage_data.config
